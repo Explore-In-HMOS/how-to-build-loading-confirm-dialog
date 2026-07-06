@@ -1,0 +1,148 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "dialog_end_workout_title",
+      "value": "End Workout"
+    },
+    {
+      "name": "dialog_end_workout_content",
+      "value": "End your %s? %d min · %d kcal saved."
+    },
+    {
+      "name": "dialog_end_session_simple",
+      "value": "End this session?"
+    },
+    {
+      "name": "dialog_do_not_ask_again",
+      "value": "Do not ask again"
+    },
+    {
+      "name": "dialog_do_not_ask_me_again",
+      "value": "Do not ask me again"
+    },
+    {
+      "name": "dialog_syncing_progress",
+      "value": "Syncing... %d%%"
+    },
+    {
+      "name": "dialog_syncing_simple",
+      "value": "Syncing workout..."
+    },
+    {
+      "name": "dialog_tip_title",
+      "value": "Workout Tip"
+    },
+    {
+      "name": "dialog_tip_content_long",
+      "value": "Keep a steady pace for better endurance."
+    },
+    {
+      "name": "dialog_tip_content_short",
+      "value": "Keep a steady pace."
+    },
+    {
+      "name": "dialog_summary_title",
+      "value": "Summary"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "action_end",
+      "value": "End"
+    },
+    {
+      "name": "action_got_it",
+      "value": "Got it"
+    },
+    {
+      "name": "action_close",
+      "value": "Close"
+    },
+    {
+      "name": "action_share",
+      "value": "Share"
+    },
+    {
+      "name": "action_standard",
+      "value": "Standard"
+    },
+    {
+      "name": "action_enhanced",
+      "value": "Enhanced"
+    },
+    {
+      "name": "unit_min",
+      "value": "min"
+    },
+    {
+      "name": "unit_km",
+      "value": "km"
+    },
+    {
+      "name": "unit_kcal",
+      "value": "kcal"
+    },
+    {
+      "name": "label_enhanced",
+      "value": "ENHANCED"
+    },
+    {
+      "name": "label_dialogv2_caption",
+      "value": "DialogV2 components"
+    },
+    {
+      "name": "label_standard",
+      "value": "STANDARD"
+    },
+    {
+      "name": "label_standard_caption",
+      "value": "Classic ArkUI dialogs"
+    },
+    {
+      "name": "label_dialogs",
+      "value": "DIALOGS"
+    },
+    {
+      "name": "label_workout_patterns",
+      "value": "Workout Patterns"
+    },
+    {
+      "name": "caption_classic_dialogs",
+      "value": "Classic dialogs"
+    },
+    {
+      "name": "caption_dialogv2",
+      "value": "DialogV2"
+    },
+    {
+      "name": "btn_end_session",
+      "value": "End Session"
+    },
+    {
+      "name": "btn_sync_data",
+      "value": "Sync Data"
+    },
+    {
+      "name": "btn_show_tip",
+      "value": "Show Tip"
+    },
+    {
+      "name": "btn_summary",
+      "value": "Summary"
+    }
+  ]
+}
